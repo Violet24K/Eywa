@@ -43,7 +43,7 @@ conda create -n eywa python=3.11
 conda activate eywa
 pip install autogluon
 pip install tabpfn
-pip install langchain langchain-openai langchain-mcp-adapters langchain-google-genai fastmcp
+pip install langchain langchain-openai langchain-mcp-adapters langchain-google-genai fastmcp==2.14.5
 ```
 
 ## 🚀 Quickstart
