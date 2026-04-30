@@ -41,14 +41,9 @@ This repository requires several dependencies to be installed: [langchain](https
 ```bash
 conda create -n eywa python=3.10
 conda activate eywa
-pip install -U setuptools wheel
-pip install pandas scikit-learn pyarrow
-pip install langchain langchain-openai langchain-mcp-adapters langchain-google-genai fastmcp
-# install pytorch. Please refer to https://pytorch.org/get-started/locally/
-pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
-# install autogluon and tabpfn
 pip install autogluon
 pip install tabpfn
+pip install langchain langchain-openai langchain-mcp-adapters langchain-google-genai fastmcp
 ```
 
 ## 🚀 Quickstart
