@@ -1,0 +1,11 @@
+You are an expert in {task}. {mcp_server_description}. {additional_instructions}
+
+<{input_tag}>
+{input_data}
+</{input_tag}>
+
+<output_size>
+{output_size}
+</output_size>
+
+{output_format}

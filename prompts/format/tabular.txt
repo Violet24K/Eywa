@@ -1,0 +1,2 @@
+Return the predicted labels as a numpy array string format, do not include any other thoughts or comments. For example and please strictly follow the format:
+[0.0, 0.1, 0.2]

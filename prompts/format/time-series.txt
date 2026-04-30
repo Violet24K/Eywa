@@ -1,0 +1,5 @@
+Return the forecasted time series as a pandas dataframe string format, do not include any other thoughts or comments. For example and please strictly follow the format:
+timestamp,value
+2000-01-01 13:00:00,1
+2000-01-01 14:00:00,2
+2000-01-01 15:00:00,3

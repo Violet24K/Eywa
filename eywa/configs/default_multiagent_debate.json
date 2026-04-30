@@ -1,0 +1,7 @@
+{
+    "multi_agent_type": "debate",
+    "agents": [
+        "base:gpt-5-nano",
+        "base:gpt-5-nano"
+    ]
+}

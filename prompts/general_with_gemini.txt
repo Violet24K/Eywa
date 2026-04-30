@@ -1,0 +1,14 @@
+You are an expert in {task}. {mcp_server_description}. {additional_instructions}
+
+<{input_tag}>
+{input_data}
+</{input_tag}>
+
+<output_size>
+{output_size}
+</output_size>
+
+For time series forecasting tasks, start your response with "timestamp,value" and then the forecasted time series.
+For tabular tasks, your response should be a list format. Do not try to write code to do the prediction.
+
+{output_format}
