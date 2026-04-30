@@ -39,7 +39,7 @@ This repository requires several dependencies to be installed: [langchain](https
 > **Note:** The commands below are a recommended starting point, not a fully portable installer. Dependency resolution can vary across operating systems, CUDA builds, and upstream package updates. If installation fails, create a fresh environment and follow the upstream installation guides linked above, especially for AutoGluon and TabPFN.
 
 ```bash
-conda create -n eywa python=3.10
+conda create -n eywa python=3.11
 conda activate eywa
 pip install autogluon
 pip install tabpfn
