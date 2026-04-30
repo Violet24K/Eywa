@@ -34,7 +34,9 @@ We bring *Eywa* from a fictional world into the digital world, for orchestrating
 
 ## ⚙️ Environment Setup
 
-This repository requires several dependencies to be installed: [langchain](https://docs.langchain.com/oss/python/langchain/install), [langchain-mcp](https://docs.langchain.com/oss/python/langchain/mcp), [langchain-openai](https://docs.langchain.com/oss/python/langchain/install), [langchain_google_genai](https://pypi.org/project/langchain-google-genai/), [fastmcp](https://gofastmcp.com/getting-started/installation), [autogluon](https://auto.gluon.ai/dev/install.html), [tabpfn](https://github.com/PriorLabs/TabPFN)
+This repository requires several dependencies to be installed: [langchain](https://docs.langchain.com/oss/python/langchain/install), [langchain-mcp](https://docs.langchain.com/oss/python/langchain/mcp), [langchain-openai](https://docs.langchain.com/oss/python/langchain/install), [langchain_google_genai](https://pypi.org/project/langchain-google-genai/), [fastmcp](https://gofastmcp.com/getting-started/installation), [autogluon](https://auto.gluon.ai/dev/install.html), [tabpfn](https://github.com/PriorLabs/TabPFN). 
+
+Since a recent update, TabPFN requires signing up with [PriorLabs](https://priorlabs.ai/tabpfn). During execution TabPFN will pop-up a browser window to sign in.
 
 > **Note:** The commands below are a recommended starting point, not a fully portable installer. Dependency resolution can vary across operating systems, CUDA builds, and upstream package updates. If installation fails, create a fresh environment and follow the upstream installation guides linked above, especially for AutoGluon and TabPFN.
 
