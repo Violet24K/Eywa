@@ -12,8 +12,10 @@
 In *Avatar* franchise, *Eywa* ("All Mother") is a planetary-scale network. She connects and coordinates diverse life forms.<br/>
 We bring *Eywa* from a fictional world into the digital world, for orchestrating heterogeneous foundation models.
 
+<a href="https://arxiv.org/abs/2604.27351"><img src="https://img.shields.io/badge/arXiv-2604.27351-B31B1B.svg?logo=arxiv" alt="Arxiv"></a>
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![Website](https://img.shields.io/badge/website-Eywa-0ea5e9.svg?logo=googlechrome&logoColor=white)](https://www.zihao.website/eywa.github.io/)
 
 <!-- [![MCP](https://img.shields.io/badge/protocol-MCP-purple.svg)](https://modelcontextprotocol.io/) -->
 
